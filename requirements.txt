@@ -1,6 +1,6 @@
 numpy
 
-skimage
+scikit-image
 
 imageio
 
