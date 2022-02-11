@@ -26,7 +26,7 @@ All original test datasets (HR images) can be downloaded from <a href="https://w
 
 1. Python 3.6
 
-2. PyTorch >= 0.4.0
+2. PyTorch == 1.0.0
 
 3. numpy
 
