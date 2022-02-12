@@ -7,11 +7,11 @@ Homepage: <a href="https://junchenglee.com/projects/TIP2020_SEANET/">SeaNet</a>
 
 <p align="center">
 
-<img src="images/EdgeNet.png" width="800px"/> 
+<img src="https://junchenglee.com/projects/TIP2020_SEANET/SeaNet.png" width="800px"/> 
 
 </p>
 
-###SEAN is another name for SeaNet, which is convenient for us to conduct experiments.
+🎯SEAN🎯 is another name for SeaNet, which is convenient for us to conduct experiments.
 
 All reconstructed SR images can be download from <a href="https://www.jianguoyun.com/p/DaKOxvEQ19ySBxi_1o4B">SR_Images</a> 
 
