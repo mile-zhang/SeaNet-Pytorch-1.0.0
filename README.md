@@ -129,19 +129,27 @@ We use  Test/PSNR_SSIM_Results_BI_model.txt for PSRN/SSIM test.
 
 </p>
 
+<p align="center">
+
 <img src="images/TABLE3.png" width="800px"/> 
 
 </p>
 
+<p align="center">
+
 <img src="images/results1.png" width="800px"/> 
 
 </p>
+
+<p align="center">
 
 <img src="images/results2.png" width="800px"/> 
 
 </p>
 
 Training curves:
+
+<p align="center">
 
 <img src="images/loss_L1_x2.png" width="235px"/><img src="images/loss_L1_x3.png" width="235px" /> <img src="images/loss_L1_x4.png" width="235px"/> 
 
