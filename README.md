@@ -1,4 +1,4 @@
-# SeaNet-PyTorch
+# SeaNet-PyTorch-1.0.0 (change from <a href="https://github.com/MIVRC/SeaNet-PyTorch">MIVRC/SeaNet-PyTorch</a> )
 ### This repository is an official PyTorch implementation of the paper "Soft-edge Assisted Network for Single Image Super-Resolution". (TIP 2020)
 
 Paper can be download from <a href="https://ieeexplore.ieee.org/abstract/document/9007623">SeaNet</a> 
@@ -28,15 +28,17 @@ All original test datasets (HR images) can be downloaded from <a href="https://w
 
 2. PyTorch == 1.0.0
 
-3. numpy
+3. torchvision ==0.2.2
 
-4. skimage
+4. numpy
 
-5. imageio
+5. skimage
 
-6. matplotlib
+6. imageio
 
-7. tqdm
+7. matplotlib
+
+8. tqdm
 
 For more informaiton, please refer to <a href="https://github.com/thstkdgus35/EDSR-PyTorch">EDSR</a> and <a href="https://github.com/yulunzhang/RCAN">RCAN</a>.
 
