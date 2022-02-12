@@ -5,9 +5,6 @@ Paper can be download from <a href="https://ieeexplore.ieee.org/abstract/documen
 
 Homepage: <a href="https://junchenglee.com/projects/TIP2020_SEANET/">SeaNet</a> 
 
-The task of single image super-resolution (SISR) is a highly ill-posed inverse problem since reconstructing the highfrequency details from a low-resolution image is challenging. Most previous CNN-based super-resolution (SR) methods tend to directly learn the mapping from the low-resolution image to the high-resolution image through some complex convolutional neural networks. However, the method of blindly increasing the depth of the network is not the best choice because the performance improvement of such methods is marginal but the computational cost is huge. A more efficient method is to integrate the image prior knowledge into the model to assist the image reconstruction. Indeed, the soft-edge has been widely applied in many computer vision tasks as the role of an important
-image feature. In this paper, we propose a Soft-edge assisted Network (SeaNet) to reconstruct the high-quality SR image with the help of image soft-edge. The proposed SeaNet consists of three sub-nets: a rough image reconstruction network (RIRN), a soft-edge reconstruction network (Edge-Net), and an image refinement network (IRN). The complete reconstruction process consists of two stages. In Stage-I, the rough SR feature maps and the SR soft-edge are reconstructed by the RIRN and Edge-Net, respectively. In Stage-II, the outputs of the previous stages are fused and then fed to the IRN for high-quality SR image reconstruction. Extensive experiments show that our SeaNet converges rapidly and achieves excellent performance under the assistance of image soft-edge. 
-
 <p align="center">
 
 <img src="images/EdgeNet.png" width="800px"/> 
@@ -22,13 +19,13 @@ All test datasets (Preprocessed HR images) can be downloaded from <a href="https
 
 All original test datasets (HR images) can be downloaded from <a href="https://www.jianguoyun.com/p/DaSU0L4Q19ySBxi_qJAB">here</a>.
 
-## Prerequisites:
+## Requirement:
 
 1. Python 3.6
 
 2. PyTorch == 1.0.0
 
-3. torchvision ==0.2.2
+3. torchvision == 0.2.2
 
 4. numpy
 
