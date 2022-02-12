@@ -151,7 +151,7 @@ Training curves:
 
 <p align="center">
 
-<img src="images/loss_L1_x2.png" width="235px"/><img src="images/loss_L1_x3.png" width="235px" /> <img src="images/loss_L1_x4.png" width="235px"/> 
+<img src="images/loss_L1_x2.png" width="235px"/> <img src="images/loss_L1_x3.png" width="235px" /> <img src="images/loss_L1_x4.png" width="235px"/> 
 
 </p>
 
