@@ -2,7 +2,7 @@
 
 <a href="https://colab.research.google.com/drive/1XgHGr7e6aBbKNLZYbi02d10s4zyNSU-H#scrollTo=yRfRjleTPRsN"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 
-### This repository is an official PyTorch implementation of the paper "Soft-edge Assisted Network for Single Image Super-Resolution". (TIP 2020)
+This repository is an official PyTorch implementation of the paper "Soft-edge Assisted Network for Single Image Super-Resolution". (TIP 2020)
 
 Paper can be download from <a href="https://ieeexplore.ieee.org/abstract/document/9007623">SeaNet</a> 
 
@@ -24,21 +24,21 @@ All original test datasets (HR images) can be downloaded from <a href="https://w
 
 ## Requirement:
 
-1. Python 3.6
+1. Python==3.7
 
-2. PyTorch == 1.0.0
+2. PyTorch==1.0.0
 
-3. torchvision == 0.2.2
+3. torchvision==0.2.2
 
-4. numpy
+4. numpy==1.19.5
 
-5. skimage
+5. scikit-image==0.18.3
 
-6. imageio
+6. imageio==2.4.1
 
-7. matplotlib
+7. matplotlib==3.2.2
 
-8. tqdm
+8. tqdm==4.62.3
 
 For more informaiton, please refer to <a href="https://github.com/thstkdgus35/EDSR-PyTorch">EDSR</a> and <a href="https://github.com/yulunzhang/RCAN">RCAN</a>.
 
